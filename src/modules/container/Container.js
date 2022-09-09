@@ -8,7 +8,7 @@ import { Register } from "../register/Register";
 import { Reset_password } from "../reset_password/Reset_password";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import io from "socket.io-client";
-const socket = io.connect("http://localhost:8085");
+const socket = io.connect("http://3.110.187.111:8085");
 
 function Container() {
   return (
