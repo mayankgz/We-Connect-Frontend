@@ -1,0 +1,7 @@
+.log_grad{
+    background-image: linear-gradient(rgb(186 230 253), rgb(240 249 255));
+}
+
+.anchor:hover{
+    text-decoration: underline;
+}

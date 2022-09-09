@@ -1,0 +1,55 @@
+.cont{
+    height: 75vh;
+    overflow-y: auto;
+}
+
+.right{
+    float: right;
+    clear: both;
+    margin: 0.5rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    border: 2px solid rgb(82, 82, 251);
+    padding: 3px 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(67, 67, 193);
+}
+.left{
+    float: left;
+    clear: both;
+    margin: 0.5rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    border: 2px solid rgb(82, 82, 251);
+    padding: 3px 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(67, 67, 193);
+}
+.center{
+    text-align: center;
+    clear: both;
+    margin: 0.5rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    border: 2px solid rgb(82, 82, 251);
+    padding: 3px 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(67, 67, 193);
+}
+.grad{
+    background-image: linear-gradient(rgb(186 230 253),rgb(255 255 255));
+}
+.center{
+    clear: both;
+    margin: 0.5rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    border: 2px solid rgb(82, 82, 251);
+    padding: 3px 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(67, 67, 193);
+}
